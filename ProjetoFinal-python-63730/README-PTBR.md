@@ -41,7 +41,7 @@ As bibliotecas utilizadas e necessárias para execução do código são:
 
 *Arquivos*
 Para execução deste projeto é necessário o arquivo “requirements.txt” em mesmo diretório de execução do arquivo de código fonte.
-E com execução de todo código serão disponibilizados os arquivos de saída mencionado no item **[📋 Saída](#### 📋 Sa&iacuteda)**.
+E com execução de todo código serão disponibilizados os arquivos de saída mencionado no item **[📋 Saída](### 📋 Saída)**.
 
 
 ### 🔩 APIs utilizadas
